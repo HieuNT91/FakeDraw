@@ -5,4 +5,4 @@
 
 # Inference Command
 
-python drawify.py --input [path to image] --pretrained_model [path_to_model]
+python drawify.py --input [path to image] --model_path [path_to_model]
